@@ -11,8 +11,12 @@ Nesta pasta estão todas as versões de scripts que pode-se usar para conseguir 
 
 ## Estágio 2 
 Esta fase começa com a liberação das *Pumpkins* (Abóboras). Esse é um recurso importante que tem uma questão probabilistiva envolvida. Fiz 2 scripts para conseguir abóboras: 
-- Abobora_simples (primeira versão quando ainda temos apenas 1 drone)
+- Abobora_simples (Versão com apenas 1 drone)
 - Script_Final_V2 (script busca a quantidade estabelecida de cada item, incluindo abóbora)
 
 ## Estágio 3 
-Depois do desbloqueiro das *Abóboras*, o próximo passo é desbloquear e otimizar o uso dos ** (Girassóis) que aceleram a plantação e a velocidade de ação dos drones. 
+Depois do desbloqueiro das *Abóboras*, o próximo passo é desbloquear e otimizar o uso das *Sunflower* (Girassóis) que aceleram a plantação e a velocidade de ação dos drones. Assim como nas abóboras, fiz 2 scripts: 
+- Gira_simples (Versão com apenas 1 drone)
+- Script_Final_V3 (script busca a quantidade estabelecida de cada item, incluindo os girassóis )
+
+## Estágio 4
