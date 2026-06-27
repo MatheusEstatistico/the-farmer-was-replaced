@@ -8,3 +8,9 @@ Nessa pasta estão todas as versões de scripts que pode-se usar para conseguir 
 - Tree (madeira otimizada)
 - Carrot (cenoura)
 - Script_Final (script busca a quantidade estabelecida de cada item básico)
+
+## Estágio 2 
+Essa fase comeã com a liberação das *Pumpkins* (Abóboras). Esse é um recurso importante que tem uma questão probabilistiva envolvida. Fiz 3 scripts para conseguir abóboras: 
+- Abobora_simples
+- Abobora_multiplos
+- Script_Final_V2 (script busca a quantidade estabelecida de cada item, incluindo abóbora)
