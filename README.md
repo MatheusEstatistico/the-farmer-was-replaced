@@ -5,8 +5,8 @@ Script usado para speedrun do jogo [*The Farmer Was Replaced*](https://store.ste
 Nesta pasta estão todas as versões de scripts que pode-se usar para conseguir os recursos básicos:
 - Hay (feno)
 - Bush (madeira)
-- Tree (madeira otimizada)
 - Carrot (cenoura)
+- Tree (madeira otimizada)
 - Script_Final (script busca a quantidade estabelecida de cada item básico)
 
 ## Estágio 2 
